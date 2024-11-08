@@ -49,5 +49,5 @@ Menentukan sku (internal sku) secara otomatis dan membuat code brand secara otom
 ## maintenance server
   - Storage Optimization
   - Screenshot:
-  ![Dashboard Produk](./images/Screenshot_2024-11-08_110427.png)
+  ![Dashboard Produk](./Images/Screenshot_2024-11-08_110427.png)
 
